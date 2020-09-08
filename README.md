@@ -7,8 +7,7 @@ Currently I'm freelance software engineer with 2 years of experience. Has experi
 
 ### 🌱 My Profile
 - 😄 &mdash; My open source profile. <br> ![github stats](https://github-readme-stats.vercel.app/api?username=miftahunajat&show_icons=true)
-- 📝 &mdash; Check my Recent post on Medium! 
-    <br> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@miftahunajat/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@miftahunajat/1" alt="Recent Article 1"></a>
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miftahunajat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me:
