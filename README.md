@@ -3,7 +3,7 @@
 
 Hi👋! I'm Miftahun!
 
-Currently I'm freelance software engineer with 2 years of experience. Has experience develop various web applications along with mobile applications. Primarily focus on Backend Technologies and love to solve various scaling problems.
+Currently I'm freelance software engineer with 2 years of experience. Has experience develop various web applications along with mobile applications.
 
 ### 🌱 My Profile
 - 😄 &mdash; My open source profile. <br> ![github stats](https://github-readme-stats.vercel.app/api?username=miftahunajat&show_icons=true)
